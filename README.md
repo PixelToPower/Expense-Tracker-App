@@ -8,3 +8,6 @@
 
   Day -3 : Added the Script.js and make it functionall and now it is fully done just last thing is
   remaining that is color combination.
+
+  ## 🔗 Live Demo
+  [Click here to try it out](https://pixeltopower.github.io/Stock-Buy-Sell-Profit-Calculater/)
