@@ -6,3 +6,5 @@
   Day -2 : Changed title from Expense-Tracker-App to Stock Buy/Sell Profit Calculater.
   Today I Started building this Calculater and did the structure things. :)
 
+  Day -3 : Added the Script.js and make it functionall and now it is fully done just last thing is
+  remaining that is color combination.
