@@ -82,6 +82,18 @@ document.getElementById("btn").addEventListener("click", (btn) => {
     let netpl = (pos[htn - 1] - pos[0]) * qt;
     document.getElementById("np").textContent = netpl;
 
+
+    for( let i = 2  ; i <= 15 ; i++){
+
+        let row = document.getElementById("row" + i);
+        if( i-1 < pos.length){
+            row.style.display = "block";
+        }
+        else{
+            row.style.display = "none";
+        }
+    }
+
 })
 
 
