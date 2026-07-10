@@ -56,12 +56,12 @@ document.getElementById("btn").addEventListener("click", (btn) => {
     document.getElementById("minnd").textContent = mindte.toLocaleDateString();
 
 
-    let maxd;
+    let maxd = 0;
     let maxp = pos[0];
     for (let g = 0; g < pos.length; g++) {
         if (pos[g] > maxp) {
-            maxp = pos[g]
-            maxd = g
+            maxp = pos[g];
+            maxd = g;
         }
     }
     
@@ -95,6 +95,8 @@ document.getElementById("btn").addEventListener("click", (btn) => {
     }
 
 })
+
+
 
 
 
