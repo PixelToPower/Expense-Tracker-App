@@ -29,4 +29,4 @@ priority right now.
 HTML, CSS, JavaScript
 
 ## 🔗 Live Demo
-[Click here to try it out](https://pixeltopower.github.io/Stock-Buy-Sell-Profit-Calculater/)
+[Click here to try it out]( https://pixeltopower.github.io/Stock-Buy-Sell-Profit-Calculater/)
