@@ -1,3 +1,7 @@
+body{
+    background: linear-gradient(rgb(7, 23, 54),rgb(22, 25, 49), rgb(19, 20, 34) ,rgb(29, 32, 37));
+}
+
 h1 {
     background-color: #0F172A;
     color: #EAB308;
